@@ -53,5 +53,5 @@ You can change `--fold S2` for S2 setting (two new drugs), S1 setting (one new d
 
 
 ## Acknowledge
-The code is implemented based on MAE_pytorch (https://github.com/IcarusWizard/MAE/tree/main). The benchmark datasets are from [MRCGNN](https://github.com/Zhankun-Xiong/MRCGNN) (Deng&Ryu datasets), [EmerGNN](https://github.com/LARS-research/EmerGNN) (inductive), and process few-shot data based on [META-DDI](https://github.com/YifanDengWHU/META-DDIE).
+The code is implemented based on MAE_pytorch (https://github.com/IcarusWizard/MAE/tree/main). The benchmark datasets are from [MRCGNN](https://github.com/Zhankun-Xiong/MRCGNN) (Deng&Ryu datasets), [EmerGNN](https://github.com/LARS-research/EmerGNN) (inductive), and process few-shot data based on [META-DDIE](https://github.com/YifanDengWHU/META-DDIE).
 We thank you very much for their sharing.
